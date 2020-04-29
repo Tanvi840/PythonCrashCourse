@@ -1,7 +1,7 @@
 # PythonCrashCourse
-An implementation of basic concepts in python for beginners.
-1.Whitespace formatting
-2.Modules
-3.Functions
-4.Strings
-5.Exception
+An implementation of basic concepts in python for beginners.<br/>
+1.Whitespace formatting<br/>
+2.Modules<br/>
+3.Functions<br/>
+4.Strings<br/>
+5.Exception<br/>
